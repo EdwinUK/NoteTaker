@@ -1,2 +1,4 @@
 # NoteTaker
-The purpose of this application is to simply take down notes, each note has a title and content. These notes are stored in an SQL database which can be simply connected using a connection string, from there a database handler class will communicate with the database using parameterized queries. A modern GUI has also been developed using a windows form to ensure easy accessibility for any user.
+This application can be used to take down simple notes, each note has a title and content. These notes are stored in an SQL database which can be simply connected using a connection string, from there a database handler class will communicate with the database using parameterized queries. A modern GUI has also been developed using a windows form to ensure easy accessibility for any user.
+
+The purpose of this application was to provide me with some C# practice, this is my first ever application in C#.
