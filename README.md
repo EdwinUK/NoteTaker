@@ -4,8 +4,8 @@ This application can be used to take down simple notes, each note has a title an
 
 The purpose of this application was to provide me with some C# programming experience, this is my first ever application written in C#.
 
-<p align="center">
-    **GUI Design:**
-</p>
+**<p align="center">
+    GUI Design:
+</p>**
 
 ![alt text](https://i.imgur.com/6xNAz07.png)
