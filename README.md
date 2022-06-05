@@ -15,9 +15,7 @@ The purpose of this application was to provide me with some C# programming exper
 # Installation
 1. Create a new database or use an existing one
 2. Create a table called Notes
-3. Run this query in order to create the table needed for the application: 
-
-CREATE TABLE Notes (
+3. Run this query in order to create the table needed for the application: CREATE TABLE Notes (
 	ID int NOT NULL IDENTITY(1,1),
 	Title varchar(255) NOT NULL,
 	Content varchar(1000),
