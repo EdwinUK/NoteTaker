@@ -5,4 +5,4 @@ The purpose of this application was to provide me with some C# practice, this is
 
 GUI Design:
 
-https://i.imgur.com/6xNAz07.png
+![alt text](https://i.imgur.com/6xNAz07.png)
